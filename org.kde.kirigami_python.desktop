@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=Kirigami Tutorial in Python
+Name[ca]=Guia d'aprenentatge del Kirigami en Python
+Name[eo]=Lernilo pri Kirigami en Python
+Name[es]=Tutorial de Kirigami en Python
+Name[fr]=Tutoriel pour Kirigami en Python
+Name[it]=Esercitazione di Kirigami in Python
+Name[nl]=Kirigami handleiding in Python
+Name[sl]=Učbenik Kirigami v Pythonu
+Name[sv]=Kirigami-handledning i Python
+Name[tr]=Python ile Kirigami Öğreticisi
+Name[uk]=Підручник з Kirigami для Python
+Name[x-test]=xxKirigami Tutorial in Pythonxx
+Exec=kirigami_hello
+Icon=kde
+Type=Application
+Terminal=false
+Categories=Utility
